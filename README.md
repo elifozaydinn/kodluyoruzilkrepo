@@ -27,3 +27,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 kodluyoruz ekibine teşekkürler
 
 [patika adresim](https://app.patika.dev/elifozaydin) 
+[pakita.dev](https://www.patika.dev/tr)
